@@ -1,0 +1,94 @@
+NEW   max_len: 16 batch_size: 256
+batch:0       current batch train loss:0.693193      {'auc': 0.5, 'logloss': 0.6931870159801625}
+batch:100     current batch train loss:0.671424      {'auc': 0.6185420078584926, 'logloss': 0.6695769534364937}
+batch:200     current batch train loss:0.635310      {'auc': 0.6787776762331776, 'logloss': 0.634282657916987}
+batch:300     current batch train loss:0.600380      {'auc': 0.7111781879017608, 'logloss': 0.6070835315003082}
+batch:400     current batch train loss:0.598228      {'auc': 0.7304381731697027, 'logloss': 0.5931878600271131}
+batch:500     current batch train loss:0.580662      {'auc': 0.7466468032366724, 'logloss': 0.5785717655041521}
+batch:600     current batch train loss:0.588711      {'auc': 0.7639387290124218, 'logloss': 0.5643227935194888}
+batch:700     current batch train loss:0.564684      {'auc': 0.778180061613755, 'logloss': 0.5530085436826137}
+batch:800     current batch train loss:0.548358      {'auc': 0.7871799869182596, 'logloss': 0.543670690429207}
+batch:900     current batch train loss:0.513055      {'auc': 0.7945986186248694, 'logloss': 0.536291347157471}
+batch:1000    current batch train loss:0.532168      {'auc': 0.7999707419003441, 'logloss': 0.5310842466081146}
+batch:1100    current batch train loss:0.530244      {'auc': 0.8051700585621199, 'logloss': 0.5267394440088712}
+batch:1200    current batch train loss:0.531992      {'auc': 0.8101114788776704, 'logloss': 0.520082579420057}
+batch:1300    current batch train loss:0.560337      {'auc': 0.8116507939213207, 'logloss': 0.5185275381893099}
+batch:1400    current batch train loss:0.532681      {'auc': 0.8171912237535198, 'logloss': 0.5124662234310018}
+batch:1500    current batch train loss:0.493655      {'auc': 0.8202607540994853, 'logloss': 0.5087247577566888}
+batch:1600    current batch train loss:0.486223      {'auc': 0.8239123983778758, 'logloss': 0.505340847287089}
+batch:1700    current batch train loss:0.421785      {'auc': 0.8254312244897062, 'logloss': 0.5023859969812571}
+batch:1800    current batch train loss:0.486439      {'auc': 0.8278437589024473, 'logloss': 0.4991392744662873}
+batch:1900    current batch train loss:0.509390      {'auc': 0.8299190402961377, 'logloss': 0.49690847186028286}
+batch:2000    current batch train loss:0.438206      {'auc': 0.8322566102013056, 'logloss': 0.495620193965951}
+batch:2100    current batch train loss:0.488266      {'auc': 0.8347923040285564, 'logloss': 0.49175960471442043}
+batch:2200    current batch train loss:0.527439      {'auc': 0.8367291042903179, 'logloss': 0.48862899942055926}
+batch:2300    current batch train loss:0.509362      {'auc': 0.8389555131874568, 'logloss': 0.48636746254632995}
+batch:2400    current batch train loss:0.499264      {'auc': 0.8405737338486872, 'logloss': 0.48502842274621216}
+batch:2500    current batch train loss:0.485382      {'auc': 0.8430898332960417, 'logloss': 0.48162988037939347}
+batch:2600    current batch train loss:0.516603      {'auc': 0.8455840131932886, 'logloss': 0.47827656582884476}
+batch:2700    current batch train loss:0.466934      {'auc': 0.8468415649166408, 'logloss': 0.4778006374012353}
+Epoch 1/3
+207s - loss:  0.5382 - auc:  0.7837 - logloss:  0.5381 - val_auc:  0.8470 - val_logloss:  0.4772
+
+batch:0       current batch train loss:0.306912      {'auc': 0.8472158167826522, 'logloss': 0.4766840545580162}
+batch:100     current batch train loss:0.075168      {'auc': 0.8352475994712107, 'logloss': 0.579991828999636}
+batch:200     current batch train loss:0.032125      {'auc': 0.8318272723369055, 'logloss': 0.5744138372774168}
+batch:300     current batch train loss:0.040177      {'auc': 0.8289441079919329, 'logloss': 0.5615583360164028}
+batch:400     current batch train loss:0.024194      {'auc': 0.8201206006117053, 'logloss': 0.5725408429978307}
+batch:500     current batch train loss:0.024652      {'auc': 0.8180691239477389, 'logloss': 0.5441994589794527}
+batch:600     current batch train loss:0.028451      {'auc': 0.8234390925988757, 'logloss': 0.5997223209521962}
+batch:700     current batch train loss:0.030123      {'auc': 0.8165513900261618, 'logloss': 0.5644691544080962}
+batch:800     current batch train loss:0.033579      {'auc': 0.8272117933480057, 'logloss': 0.5861812164613798}
+batch:900     current batch train loss:0.007955      {'auc': 0.8211644848561491, 'logloss': 0.6232439591661321}
+batch:1000    current batch train loss:0.037141      {'auc': 0.8209550002931107, 'logloss': 0.5483457878318073}
+batch:1100    current batch train loss:0.011595      {'auc': 0.8208428047175234, 'logloss': 0.5609021471310017}
+batch:1200    current batch train loss:0.021124      {'auc': 0.8211665030847688, 'logloss': 0.5454550357624628}
+batch:1300    current batch train loss:0.013465      {'auc': 0.829977994482569, 'logloss': 0.5274937648333816}
+batch:1400    current batch train loss:0.018726      {'auc': 0.8185916827420742, 'logloss': 0.5435931384720124}
+batch:1500    current batch train loss:0.008893      {'auc': 0.825751770365088, 'logloss': 0.5198736080933921}
+batch:1600    current batch train loss:0.002289      {'auc': 0.8241205357400712, 'logloss': 0.5667802113270839}
+batch:1700    current batch train loss:0.017912      {'auc': 0.8188723230231457, 'logloss': 0.5358331209586285}
+batch:1800    current batch train loss:0.007921      {'auc': 0.8243819394438026, 'logloss': 0.5195043149022124}
+batch:1900    current batch train loss:0.008436      {'auc': 0.7935375507282623, 'logloss': 0.570950894918417}
+batch:2000    current batch train loss:0.016925      {'auc': 0.8218645976138135, 'logloss': 0.5182809924522752}
+batch:2100    current batch train loss:0.003961      {'auc': 0.8176747359665408, 'logloss': 0.5290970060975314}
+batch:2200    current batch train loss:0.051311      {'auc': 0.8285021593632412, 'logloss': 0.5267618492044528}
+batch:2300    current batch train loss:0.011904      {'auc': 0.8129443011588688, 'logloss': 0.5874875214549239}
+batch:2400    current batch train loss:0.033432      {'auc': 0.8123101054171796, 'logloss': 0.5632076865743921}
+batch:2500    current batch train loss:0.012376      {'auc': 0.8120408353391066, 'logloss': 0.7439067628833214}
+batch:2600    current batch train loss:0.027916      {'auc': 0.8168530463125437, 'logloss': 0.5686530085153191}
+batch:2700    current batch train loss:0.010690      {'auc': 0.8213728746562892, 'logloss': 0.5460350547999498}
+Epoch 2/3
+208s - loss:  0.0213 - auc:  0.9996 - logloss:  0.0211 - val_auc:  0.8210 - val_logloss:  0.5472
+
+batch:0       current batch train loss:0.000215      {'auc': 0.8205302485896093, 'logloss': 0.5483939297816769}
+batch:100     current batch train loss:0.000211      {'auc': 0.8150167955128864, 'logloss': 0.5506839057436045}
+batch:200     current batch train loss:0.000212      {'auc': 0.8150780268316447, 'logloss': 0.5497875969793908}
+batch:300     current batch train loss:0.000219      {'auc': 0.8150383892932834, 'logloss': 0.5490477089694044}
+batch:400     current batch train loss:0.000208      {'auc': 0.8150240878003577, 'logloss': 0.5487011002244251}
+batch:500     current batch train loss:0.000208      {'auc': 0.815024083611272, 'logloss': 0.5483182417718672}
+batch:600     current batch train loss:0.000206      {'auc': 0.8150004480158818, 'logloss': 0.54769413680291}
+batch:700     current batch train loss:0.000205      {'auc': 0.8163581720470279, 'logloss': 0.5383928776281073}
+batch:800     current batch train loss:0.000205      {'auc': 0.8163222602905634, 'logloss': 0.5385776101460219}
+batch:900     current batch train loss:0.000203      {'auc': 0.8162648841600222, 'logloss': 0.5388660346993696}
+batch:1000    current batch train loss:0.000203      {'auc': 0.8162172134351964, 'logloss': 0.5393917163802141}
+batch:1100    current batch train loss:0.000200      {'auc': 0.816143200146037, 'logloss': 0.5399589903196289}
+batch:1200    current batch train loss:0.000199      {'auc': 0.8160191738184623, 'logloss': 0.540964291683591}
+batch:1300    current batch train loss:0.000198      {'auc': 0.8167903668678511, 'logloss': 0.5392344226470129}
+batch:1400    current batch train loss:0.000198      {'auc': 0.8166300368994017, 'logloss': 0.5406216851356027}
+batch:1500    current batch train loss:0.000196      {'auc': 0.8168157139096366, 'logloss': 0.5426133795294811}
+batch:1600    current batch train loss:0.000195      {'auc': 0.8167362651452266, 'logloss': 0.5447807141778992}
+batch:1700    current batch train loss:0.000195      {'auc': 0.8165839878060634, 'logloss': 0.5472642554303214}
+batch:1800    current batch train loss:0.000198      {'auc': 0.8160703906953706, 'logloss': 0.5535141054905696}
+batch:1900    current batch train loss:0.000190      {'auc': 0.8160833653637122, 'logloss': 0.5562479488938522}
+batch:2000    current batch train loss:0.000189      {'auc': 0.8160504887136458, 'logloss': 0.5589421408688665}
+batch:2100    current batch train loss:0.000188      {'auc': 0.8159585675613721, 'logloss': 0.5625924330695375}
+batch:2200    current batch train loss:0.000187      {'auc': 0.8160582266151049, 'logloss': 0.5642441685058575}
+batch:2300    current batch train loss:0.000187      {'auc': 0.815170807497783, 'logloss': 0.5685382914914611}
+batch:2400    current batch train loss:0.000184      {'auc': 0.8179525926229549, 'logloss': 0.5950752236552557}
+batch:2500    current batch train loss:0.000183      {'auc': 0.8184913541631715, 'logloss': 0.5958868651998382}
+batch:2600    current batch train loss:0.000183      {'auc': 0.8191765669805965, 'logloss': 0.5947725799508488}
+batch:2700    current batch train loss:0.000187      {'auc': 0.8196804111713253, 'logloss': 0.5960840009069005}
+Epoch 3/3
+207s - loss:  0.0002 - auc:  1.0000 - logloss:  0.0000 - val_auc:  0.8197 - val_logloss:  0.5961
+

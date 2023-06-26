@@ -1,0 +1,18 @@
+behavior length:    1 ~   16    {'auc': 0.7675987209295725, 'logloss': 0.5439107570204331}
+behavior length:   17 ~   32    {'auc': 0.755441342964418, 'logloss': 0.5544546392580055}
+behavior length:   33 ~   48    {'auc': 0.7591776295301869, 'logloss': 0.5487439842470796}
+behavior length:   49 ~   64    {'auc': 0.7619615144713789, 'logloss': 0.543327952454779}
+behavior length:   65 ~   80    {'auc': 0.7597752896144692, 'logloss': 0.5457267849414477}
+behavior length:   81 ~   96    {'auc': 0.7624925812865256, 'logloss': 0.5422631967522842}
+behavior length:   97 ~  112    {'auc': 0.7665613100813609, 'logloss': 0.5472884501869787}
+behavior length:  113 ~  128    {'auc': 0.7837111148629603, 'logloss': 0.5396818761240735}
+behavior length:  129 ~  144    {'auc': 0.7934238197120693, 'logloss': 0.5287453749491328}
+behavior length:  145 ~  160    {'auc': 0.8015407119910314, 'logloss': 0.519738893475933}
+behavior length:  161 ~  176    {'auc': 0.7988030415463573, 'logloss': 0.5226020513889331}
+behavior length:  177 ~  192    {'auc': 0.8048535931133225, 'logloss': 0.5180025953728647}
+behavior length:  193 ~  208    {'auc': 0.8089966459167408, 'logloss': 0.5159292879172848}
+behavior length:  209 ~  224    {'auc': 0.8086166850214318, 'logloss': 0.5173799628413683}
+behavior length:  225 ~  240    {'auc': 0.8091515237955075, 'logloss': 0.5147639432020059}
+behavior length:  241 ~  256    {'auc': 0.8034694972720614, 'logloss': 0.5274839464939731}
+behavior length:  257 ~  272    {'auc': 0.8085764127912105, 'logloss': 0.5164211271443718}
+behavior length:  273 ~         {'auc': 0.8071552851881623, 'logloss': 0.518925143012475}
